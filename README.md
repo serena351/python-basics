@@ -15,5 +15,6 @@ This repo contains information and demos on Python basics.  The activities inclu
 - [Testing and Testing Frameworks](./docs/testing_and_testing_frameworks.md)
 - [Test Driven Development - TDD](./docs/test-driven-development.md)
 - [Debugging](./docs/debugging.md)
+- [Making and Testing HTTP Requests](./docs/making_http_requests.md)
 
 ---

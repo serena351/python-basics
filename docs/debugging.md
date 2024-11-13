@@ -6,7 +6,7 @@ The aims of this lesson are to provide an introduction into debugging code, givi
 
 ---
 
-## Leaner Stories
+## Learner Stories
 
 ```text
 As a DATA PROFESSIONAL,  
@@ -20,7 +20,7 @@ so that I can identify and fix bugs effectively
 
 ---
 
-## Definitions of DONE
+## Definition of DONE
 
 - [ ] The data professional has completed a tutorial or training session on writing unit tests in Python using `unittest` and/or `pytest`, focusing on their syntax and features.
 - [ ] The data professional can explain the purpose of unit testing, the differences between `unittest` and `pytest`, and how to write effective test cases.

@@ -12,7 +12,7 @@ The aim of this section is to allow you begin to explore different ways of devel
 
 ---
 
-## Leaner Stories
+## Learner Stories
 
 ```text
 As a DATA PROFESSIONAL,  

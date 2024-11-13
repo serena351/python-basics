@@ -12,7 +12,7 @@ The aim of this course is to allow you begin to explore different ways of develo
 
 ---
 
-## Leaner Stories
+## Learner Stories
 
 ```text
 As a DATA PROFESSIONAL,  

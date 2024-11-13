@@ -1,5 +1,56 @@
 # File Handling Basics
 
+## Aims
+
+The aims of the section are to introduce the basics of file handling in Python, focussing on the local file system.  We will cover how to access and construct paths to files, how to open and close files, and how to read and write to files.
+
+---
+
+## Learner Stories
+
+```text
+As a DATA PROFESSIONAL,  
+I want to be able to READ from and WRITE to FILES in VARIOUS FORMATS,  
+so that I can INGEST DATA from DIFFERENT SOURCES and OUTPUT RESULTS for further use
+
+As a DATA PROFESSIONAL,  
+I want to be able to use CONTEXT MANAGERS (with statements) when HANDLING FILES,  
+so that I can MANAGE RESOURCES SAFELY and AVOID DATA CORRUPTIONS or FILE LOCKS
+```
+
+---
+
+## Definitions of DONE
+
+### Story 1
+
+- [ ] The data professional has completed a tutorial or training session on file handling in Python, including reading from and writing to files in various formats (e.g., CSV, JSON, TXT).
+- [ ] The data professional can explain the different file formats and their use cases, including advantages and limitations of each format.
+
+The data professional has written scripts demonstrating:
+
+- [ ] Reading data from CSV files using Python’s built-in csv module or libraries like pandas.
+- [ ] Writing data to CSV files using Python’s built-in csv module or libraries like pandas.
+- [ ] Reading from and writing to JSON files using Python’s json module.
+- [ ] Handling plain text files (e.g., reading from and writing to .txt files).
+
+The data professional has completed exercises that demonstrate:
+
+- [ ] Reading large files efficiently (e.g., using chunking or streaming).
+- [ ] Writing formatted data to files (e.g., handling delimiters, line endings).
+
+- [ ] Code reviews have been conducted for these scripts, confirming correct implementation of file I/O operations and adherence to best practices for file handling.
+- [ ] The data professional has created a script that demonstrates the end-to-end process of reading data from a file, processing it, and writing results to another file.
+- [ ] All scripts are formatted according to PEP 8 guidelines and adhere to Python best practices.
+- [ ] All scripts have been successfully executed in a Jupyter Notebook environment, and file operations work as expected without errors.
+- [ ] The data professional has completed a quiz or assessment on file handling and passed with a score of at least 80%.
+- [ ] Examples of file handling operations are documented in a shared knowledge repository or personal learning journal.
+- [ ] Feedback from peers or mentors on file handling practices has been reviewed, and any suggested improvements have been implemented.
+
+### Story 2
+
+---
+
 ## File Handling in Python
 
 Python provides basic functions and methods necessary to manipulate files by default. You can do most of the file manipulation using a file object.
