@@ -205,7 +205,7 @@ if __name__ == "__main__":
 We have this specification:
 
 ```sh
-Write a program that you can run in your node repl that can find how many even numbers are in a list of numbers
+Write a program that you can run that can find how many even numbers are in a list of numbers
 
 # Acceptance Criteria
 Input => Output
