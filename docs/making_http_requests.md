@@ -295,7 +295,7 @@ def test_get_request():
         response = get_request('https://www.github.com')
 
         # Assert
-        assert response == '<html><p>Hello, World!</p></html>'
+        assert response.text == '<html><p>Hello, World!</p></html>'
 ```
 
 This code will not actually make a call to the server, instead, when the function being tested calls `requests.get()`, it will return the response specified in the test.

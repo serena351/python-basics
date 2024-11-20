@@ -2,7 +2,7 @@
 
 ## Python Basics Information and Demos
 
-This repo contains information and demos on Python basics.  The activities include the production Python scripts required and also the unit tests to ensure that all scripts are reliable and working correcty.
+This repo contains information and demos on Python basics.  The activities include the production Python scripts required and also the unit tests to ensure that all scripts are reliable and working correctly.
 
 ---
 
